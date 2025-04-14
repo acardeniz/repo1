@@ -1,19 +1,3 @@
-  GNU nano 8.3                                                                     README.md
-Nature's first green is gold,
-Her hardest hue to hold.
-Her early leaf's a flower;
-But only so an hour.
-
-
-
-
-
-
-
-
-
-
-
 Roads go ever ever on,
 Over rock and under tree,
 By caves where never sun has shone,
